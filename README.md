@@ -2,7 +2,7 @@
 Simpel and easy notify handler 
 
 ## Installation
-Simply run `go get github.com/CrestFallenTurtle/notify_handler/notify_handler` to add it to your project
+Simply run `go get github.com/CrestFallenTurtle/notify_handler` to add it to your project
 
 ## Contents
 The following table contains all tools available in this project.
