@@ -12,4 +12,4 @@ clean_binary:
 	-rm $(BIN)
 
 dependencies:
-	go get github.com/CrestFallenTurtle/notify_handler/notify_handler
+	go get github.com/CrestFallenTurtle/notify_handler
